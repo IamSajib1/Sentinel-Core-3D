@@ -1,1 +1,0 @@
-# Sentinel-Core-3D
